@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "name": "pidgeoneat",
+  "description": "A react-based web interface where you can give bread to a pidgeon. That's it.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunaScauri/pidgeonEat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunaScauri/pidgeonEat/issues"
+  },
+  "homepage": "https://github.com/BrunaScauri/pidgeonEat#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "stylelint": "^14.16.0"
+  }
+}
